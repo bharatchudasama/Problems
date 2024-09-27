@@ -1,6 +1,11 @@
 // Sample data for approaches corresponding to problems
 const approachesData = {
-  "5,4": [
+  4: [
+    { id: 1, name: "Approach 1", file: "p1.cpp" },
+    { id: 2, name: "Approach 2", file: "p2.cpp" },
+    { id: 3, name: "Approach 3", file: "p3.cpp" },
+  ],
+  5: [
     { id: 1, name: "Approach 1", file: "p1.cpp" },
     { id: 2, name: "Approach 2", file: "p2.cpp" },
     { id: 3, name: "Approach 3", file: "p3.cpp" },
