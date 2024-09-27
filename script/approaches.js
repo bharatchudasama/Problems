@@ -1,12 +1,13 @@
 // Sample data for approaches corresponding to problems
 const approachesData = {
-  4: [
+  "5,4": [
     { id: 1, name: "Approach 1", file: "p1.cpp" },
     { id: 2, name: "Approach 2", file: "p2.cpp" },
     { id: 3, name: "Approach 3", file: "p3.cpp" },
-  ]
+  ],
   // Add other problem IDs and their approaches here
 };
+
 
 // Get the problem ID, subcategory ID, and category ID from the URL
 const urlParams = new URLSearchParams(window.location.search);
