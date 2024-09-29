@@ -14,6 +14,14 @@ const approachesData = {
     { id: 1, name: "Approach 1", file: "p1.cpp" },
     { id: 2, name: "Approach 2", file: "p2.cpp" }
   ],
+  7: [
+    { id: 1, name: "Approach 1", file: "p1.cpp" },
+    { id: 2, name: "Approach 2", file: "p2.cpp" },
+    { id: 3, name: "Approach 3", file: "p3.cpp" }
+  ],
+  8: [
+    { id: 1, name: "Approach 1", file: "p1.cpp" }
+  ],
   // Add other problem IDs and their approaches here
 };
 
