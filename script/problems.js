@@ -16,7 +16,15 @@ const problems = {
     { id: 7, name: "Maximum sum of non-adjacent elements" },
     { id: 8, name: "House Robber" }
   ],
-  47: []
+  47: [
+    { id: 9, name: "Ninja's Training" },
+    { id: 10, name: "Grid Unique Paths : DP on Grids" },
+    { id: 11, name: "Grid Unique Paths 2" },
+    { id: 12, name: "Minimum path sum in Grid" },
+    { id: 13, name: "Minimum path sum in Triangular Grid" },
+    { id: 14, name: "Minimum/Maximum Falling Path Sum" },
+    { id: 15, name: "3-d DP : Ninja and his friends" }
+  ]
 };
 
 // Get the subcategory ID from the URL
